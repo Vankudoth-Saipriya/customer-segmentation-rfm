@@ -73,15 +73,13 @@ Apply **K-Means Clustering** to group similar customers and assign labels such a
 ## 🤝 Credits
 
 Dataset from UCI & Kaggle  
-Project guided and organized with help from [ChatGPT 🤖].
-
 ---
 
 ## 📌 Author
 
 **Sai Priya Vankudoth**  
-IIT Intern-level Data Analytics Project  
-📫 _GitHub Profile_: [Your GitHub URL]
+Data Analytics Project  
+📫 _GitHub Profile_: [https://github.com/Vankudoth-Saipriya]
 
 ---
 
